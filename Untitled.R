@@ -11,4 +11,7 @@ divisors <- function(x) {
   return(total)
 }
 
-divisors(5)
+#Running tests of divisors function!
+divisors(2)
+divisors(10)
+divisors(-1)
