@@ -10,3 +10,5 @@ divisors <- function(x) {
   }
   return(total)
 }
+
+divisors(5)
